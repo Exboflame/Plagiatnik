@@ -16,7 +16,12 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: b690fd5fade5ebc4587f1592e4043622
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 86ccea393cf9b8e4bb1840f46017c811
+    m_Address: Fonts & Materials/UAF-Memory-font
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: b0a072c3a188d5b4d936d6453509ec28, type: 2}
   m_SchemaSet:
