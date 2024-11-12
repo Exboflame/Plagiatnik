@@ -22,6 +22,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d9bd52b7f10ba840a64c4c38fafda7e
+    m_Address: Assets/2d3dAssets/CITY/SurrounDead/Materials/Wall32_Yellow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: b0a072c3a188d5b4d936d6453509ec28, type: 2}
   m_SchemaSet:
