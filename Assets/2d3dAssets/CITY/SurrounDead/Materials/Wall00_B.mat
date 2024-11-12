@@ -10,7 +10,7 @@ Material:
   m_Name: Wall00_B
   m_Shader: {fileID: 10703, guid: 0000000000000000f000000000000000, type: 0}
   m_Parent: {fileID: 2100000, guid: d265ab61d7f9c5e4e897b0739cc26753, type: 2}
-  m_ModifiedSerializedProperties: 2
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 5
@@ -28,7 +28,6 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
-    m_Floats:
-    - _Glossiness: 0.5
+    m_Floats: []
     m_Colors: []
   m_BuildTextureStacks: []
