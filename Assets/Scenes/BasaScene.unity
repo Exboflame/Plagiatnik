@@ -2871,7 +2871,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: edd8ce5141077402989d18611370c7d3,
+      objectReference: {fileID: 21300000, guid: 8a56d621460a74f81b51fa56a9c543af,
         type: 3}
     - target: {fileID: 8811130866642058385, guid: 9e9a8cb7a90135747b38e2d9ee80adb2,
         type: 3}
@@ -4340,7 +4340,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!108 &705507994
 Light:
   m_ObjectHideFlags: 0
